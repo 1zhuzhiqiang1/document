@@ -1,2 +1,3 @@
 1. 删除已经提交的文件
     git rm --cached file_path
+    git rm -r --cached directory_path
